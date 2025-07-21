@@ -1,0 +1,8 @@
+{
+  "jsxSingleQuote": true,
+  "singleQuote": true,
+  "typescript.preferences.quoteStyle": "single",
+  "html.completion.attributeDefaultValue": "singlequotes",
+  "javascript.preferences.quoteStyle": "single",
+  "quoteProps": "preserve"
+}
